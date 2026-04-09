@@ -1,0 +1,10 @@
+=== SMART CITY DATA ===
+City Name,NovaTown
+Current Day,2
+Population,25000
+Budget,13013197
+Happiness,83.0013688899354
+Active Buses,122
+Energy Production,820.0
+Water Supply,400.0
+Save Time,Tue Apr 07 18:57:08 GMT+06:00 2026
