@@ -225,7 +225,6 @@ public class SmartCitySimulation {
             System.err.println("❌ " + e.getMessage());
         }
     }
-    
     private void handleExit() {
         System.out.println("1️⃣2️⃣ Exit");
         System.out.println("Saving simulation data...\n");
